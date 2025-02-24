@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-======
+Dr Mingming Liu
+------
 Dr. Mingming Liu is a tenured Assistant Professor in the School of Electronic Engineering at Dublin City University (DCU).
 
 Mingming was a data scientist, applied researcher, and H2020 project lead (5G-Solutions) at IBM Ireland Lab, where the main focus of his work was to leverage the state-of-the-art machine learning and applied optimisation techniques for practical and challenging problems arising in the industry. Before IBM, he worked at University College Dublin as a (senior) postdoctoral research fellow with the Control Engineering and Decision Science Research Group within the School of Electrical and Electronic Engineering. He spent almost three years working on both EU and SFI funded projects at UCD, including Green Transportation and Networks (SFI) and Enable-S3 (H2020), with strong collaborations with both academia and industrial partners.
