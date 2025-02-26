@@ -1,6 +1,9 @@
 ---
 title: "Sen Yan"
-excerpt: "Yan sen is currently a phd student.<br/><img src='/images/bio-photo.jpg'>"
+excerpt: >
+  Yan Sen is currently a PhD student.  
+  He works on AI and machine learning.  
+  <img src='/images/bio-photo.jpg'>
 collection: portfolio
 ---
 dsdsdsdsdsdsdsdsds
